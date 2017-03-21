@@ -1,1 +1,1 @@
-This is the second source.
+This is original content to replace the symlink.
